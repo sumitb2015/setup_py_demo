@@ -1,0 +1,11 @@
+.venv/
+notes.txt
+# Ignore build and distribution folders
+build/
+dist/
+# Ignore .egg-info folder
+*.egg-info/
+# Ignore .pyc files
+*.pyc
+# Ignore __pycache__ directory
+__pycache__/
